@@ -1,3 +1,1 @@
-Ein schöner Text. Und auch Zeile 1 geändert.
-
-Und zweite erfasst!
+So, gemerged.
