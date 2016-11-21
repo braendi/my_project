@@ -4,4 +4,4 @@ So this is a second line.
 
 Third line.
 
-And added 4th line in Branch new_feature.
+Edited 4th line in Branch new_feature.
